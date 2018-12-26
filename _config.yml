@@ -1,1 +1,24 @@
-theme: jekyll-theme-slate
+title: K4ke
+url: "https://ankitsultana.com"
+baseurl: "/researcher"
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/k4ke"
+footer_text: "K4ke"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About me"
+   link: "resume.pdf"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
